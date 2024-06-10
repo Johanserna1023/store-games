@@ -1,0 +1,9 @@
+.container__creators::-webkit-scrollbar{
+    height: 10px;
+    background-color: #181818;
+}
+.container__creators::-webkit-scrollbar-thumb{
+  background-color: #44444480;
+  height: 10px;
+  border-radius: 10px;
+}
